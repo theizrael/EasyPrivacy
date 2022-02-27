@@ -14434,7 +14434,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.nike.com^
 ||analytics.ovh.com^
 ||analytics.pgncs.notion.so^
-||analytics.plex.tv^
 ||analytics.productreview.com.au^
 ||analytics.realestate.com.au^
 ||analytics.send.cm^
