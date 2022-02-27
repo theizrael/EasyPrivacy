@@ -14942,7 +14942,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pingback.issuu.com^
 ||pixel.anyclip.com^
 ||pixel.archivecaslytosk.onion^
-||pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
 ||pixel.convertize.io^
 ||pixel.digitalspy.co.uk^
 ||pixel.facebook.com^
